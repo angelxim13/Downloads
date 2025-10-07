@@ -1,0 +1,97 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "prac1",
+      "request": "launch",
+      "mainClass": "prac1.prac1",
+      "projectName": "Downloads_536cfa3e"
+    },
+    {
+      "type": "java",
+      "name": "p52",
+      "request": "launch",
+      "mainClass": "prac5.p52",
+      "projectName": "Downloads_536cfa3e"
+    },
+    {
+      "type": "java",
+      "name": "p51",
+      "request": "launch",
+      "mainClass": "prac5.p51",
+      "projectName": "Downloads_536cfa3e"
+    },
+    {
+      "type": "java",
+      "name": "practica5",
+      "request": "launch",
+      "mainClass": "prac5.practica5",
+      "projectName": "Downloads_536cfa3e"
+    },
+    {
+      "type": "java",
+      "name": "MemoriaDinamica",
+      "request": "launch",
+      "mainClass": "prac3.MemoriaDinamica",
+      "projectName": "Downloads_536cfa3e"
+    },
+    {
+      "type": "java",
+      "name": "TestComplejidad",
+      "request": "launch",
+      "mainClass": "prac4.TestComplejidad",
+      "projectName": "Downloads_536cfa3e"
+    },
+    {
+      "type": "java",
+      "name": "ComplejidadTemporal",
+      "request": "launch",
+      "mainClass": "ComplejidadTemporal",
+      "projectName": "Downloads_536cfa3e"
+    },
+    {
+      "type": "java",
+      "name": "MemoriaEstatica",
+      "request": "launch",
+      "mainClass": "prac3.MemoriaEstatica",
+      "projectName": "Downloads_536cfa3e"
+    },
+    {
+      "type": "java",
+      "name": "prac1",
+      "request": "launch",
+      "mainClass": "prac1",
+      "projectName": "Downloads_536cfa3e"
+    },
+    {
+      "type": "java",
+      "name": "MemoriaEstatica",
+      "request": "launch",
+      "mainClass": "practica.MemoriaEstatica",
+      "projectName": "Downloads_536cfa3e"
+    },
+    {
+      "type": "java",
+      "name": "SumaNumeros",
+      "request": "launch",
+      "mainClass": "SumaNumeros",
+      "projectName": "Downloads_536cfa3e"
+    },
+    {
+      "type": "java",
+      "name": "DatosAlumno",
+      "request": "launch",
+      "mainClass": "DatosAlumno",
+      "projectName": "Downloads_536cfa3e"
+    },
+    {
+      "type": "java",
+      "name": "Ejecutar cualquier archivo Java",
+      "request": "launch",
+      "mainClass": "${fileBasenameNoExtension}",
+      "console": "externalTerminal"
+    }
+  ]
+}
+
